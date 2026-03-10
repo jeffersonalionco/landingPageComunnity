@@ -1,0 +1,19 @@
+{
+  "name": "comunidade-metaji-landingpage",
+  "version": "1.0.0",
+  "description": "Landing page da Comunidade Metaji servida via Node.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "landingpage",
+    "metaji",
+    "whatsapp",
+    "bots",
+    "automacao",
+    "ia"
+  ],
+  "license": "MIT"
+}
+
